@@ -1,0 +1,3 @@
+echo "syntax on" > ~/.vimrc
+echo "alias vi=vim" >> ~/.bash_profile
+echo "alias ll='ls -al'" >> ~/.bash_profile
