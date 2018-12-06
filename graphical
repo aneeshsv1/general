@@ -1,0 +1,3 @@
+yum groupinstall graphical-server-environment
+systemctl enable graphical.target --force
+systemctl set-default graphical.target
